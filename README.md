@@ -50,6 +50,12 @@ df.isnull().sum()
 # MEAN:
 ![image](https://github.com/tharikasankar/ODD2023-Datascience-Ex01/assets/119475507/ac6aabc6-f598-4fec-82e2-8306f2687578)
 # MEDIAN:
+![image](https://github.com/tharikasankar/ODD2023-Datascience-Ex01/assets/119475507/6be70603-c226-45cb-901f-ed35efe4b5c6)
+# NON NULL AFTER:
+# Df info:
+![image](https://github.com/tharikasankar/ODD2023-Datascience-Ex01/assets/119475507/b6a99ce9-7e4e-4a3a-bc73-4c1da67d603c)
+# Df isnull().sum():
+![image](https://github.com/tharikasankar/ODD2023-Datascience-Ex01/assets/119475507/a98ab331-3ffd-499d-b30d-7d6aa2e959ba)
 
 
 
